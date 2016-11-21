@@ -1,5 +1,5 @@
 # Template Base
-Projeto em branco para servir de base para diversas aplicações Web e Sites.
+Projeto em branco para servir de base para diversos sites aplicações Web.
 Frameworks adicionados:
 
 - jQuery
