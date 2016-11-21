@@ -7,8 +7,8 @@ Frameworks adicionados:
 - Bootstrap
 
 #Instalação (Nodejs necessário)
-Com o terminal, navegue diretório do projeto e digite:
+Com o terminal, navegue diretório do projeto e dê o comando:
 
 * npm install
 
-Após todos os módulos terem sido instalados, digite *gulp* para gerar os primeiros arquivos.
+Após todos os módulos terem sido instalados, dê o comando *gulp* para gerar os primeiros arquivos.
