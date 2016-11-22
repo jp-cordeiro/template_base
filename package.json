@@ -1,0 +1,26 @@
+{
+  "name": "template_base",
+  "version": "1.0.0",
+  "title": "Template Base",
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "browserify": "^13.1.1",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-live-server": "0.0.30",
+    "gulp-sass": "^2.3.2",
+    "gulp-tinypng-compress": "^1.2.1",
+    "gulp-uglify": "^2.0.0",
+    "jquery": "^3.1.1",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
