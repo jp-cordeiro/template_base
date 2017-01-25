@@ -7,7 +7,7 @@ Frameworks adicionados:
 - Bootstrap
 
 #Instalação (Nodejs necessário)
-Com o terminal, navegue diretório do projeto e dê o comando:
+Com o terminal, navegue até diretório do projeto e dê o comando:
 
 * npm install
 
